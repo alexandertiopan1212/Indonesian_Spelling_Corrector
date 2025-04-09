@@ -7,7 +7,7 @@ This repository contains an implementation of a **character-level spelling corre
 ## 📁 Repository Structure
 
 ```
-📦 Indonesian_Spelling_Corrector
+📦 Indonesian_Spelling_Corrector/
 ├── spelling_corrector.ipynb     # Main notebook: preprocessing, training, evaluation
 ├── root_word.txt                # Dataset of 41,000+ root words
 ├── char_utils.py                # Character-index conversion utils
